@@ -24,7 +24,8 @@ CUDA_VISIBLE_DEVICES=1 python train.py
 
 ## Evaluation
 after training the model, you will get a new model saved in llama-7b-int4-dolly.
-for example you can run:
+
+then you can generate the answer or sentence:
 ```python
 python evaluation.py --prompt "Write me a poem about Singapore." --max_new_tokens 128
 ```
