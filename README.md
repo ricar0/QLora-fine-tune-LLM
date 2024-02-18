@@ -8,12 +8,12 @@ pip install -e .
 ```
 
 ## LLM Model
-I use Llama-2-7b-hf as base model.
+I use `Llama-2-7b-hf` as base model.
 
 all details are in `config/base_config.yaml`, you can modify it as you want.
 
 ## dataset
-I use databricks-dolly-15k as dataset.
+I use `databricks-dolly-15k` as dataset.
 
 ## Train
 just run train.py and choose GPU, for example you can run:
