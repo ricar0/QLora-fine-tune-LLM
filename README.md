@@ -10,7 +10,7 @@ pip install -e .
 ## LLM Model
 I use Llama-2-7b-hf as base model.
 
-all detail are in config/base_config.yaml, you can modify it as you want.
+all details are in `config/base_config.yaml`, you can modify it as you want.
 
 ## dataset
 I use databricks-dolly-15k as dataset.
