@@ -29,3 +29,5 @@ then you can generate the answer or sentence:
 ```python
 python evaluation.py --prompt "Write me a poem about Singapore." --max_new_tokens 128
 ```
+
+
